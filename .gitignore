@@ -1,0 +1,27 @@
+.DS_Store
+node_modules/
+/dist/
+/log/
+/out/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+/test/unit/coverage/
+/test/e2e/reports/
+selenium-debug.log
+.svn/
+.settings/
+classes/
+bin/
+/target
+resultPath/
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+.gitkeep
+*.iml
+.project

@@ -1,2 +1,1 @@
-# jarcompare
-A TOOL TO COMPARE JARS
+# A TOOL TO COMPARE JARS
